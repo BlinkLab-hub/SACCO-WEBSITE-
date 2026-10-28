@@ -1,0 +1,2 @@
+# Keep the database file private on Apache hosts.
+Require all denied
